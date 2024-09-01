@@ -1,13 +1,12 @@
-package com.baeldung.resilientapp;
+package com.baeldung.synchronous;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResilientApp {
+public class SynchronousRequestsApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(ResilientApp.class, args);
+        SpringApplication.run(SynchronousRequestsApp.class, args);
     }
-
 }
