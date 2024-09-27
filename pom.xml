@@ -586,7 +586,6 @@
                 <module>libraries-data-io</module>
                 <!--<module>persistence-modules/java-harperdb</module>--> <!-- This module requires a library to download manually -->
                 <module>persistence-modules/spring-data-neo4j</module>
-                <module>persistence-modules/spring-data-rest-2</module>
                 <module>persistence-modules/spring-persistence-simple</module>
                 <module>quarkus-modules/quarkus</module>
                 <module>quarkus-modules/quarkus-vs-springboot/quarkus-project</module>
@@ -668,7 +667,7 @@
                 <module>azure</module>
                 <!-- <module>azure-functions</module>--> <!-- BAEL-6423 -->
                 <module>bazel</module>
-                <!-- <module>checker-framework</module>  --> <!-- JAVA-39367 -->
+                <module>checker-framework</module>
                 <module>core-java-modules</module>
                 <module>custom-pmd</module>
                 <module>data-structures</module>
@@ -707,7 +706,7 @@
                 <module>jaxb</module>
                 <module>jetbrains</module>
                 <module>jgit</module>
-                <!-- <module>jmh</module> --> <!-- JAVA-39367 -->
+                <module>jmh</module>
                 <module>json-modules</module>
                 <module>jsoup</module>
                 <module>jws</module>
@@ -779,7 +778,7 @@
                 <module>spf4j</module>
                 <module>spring-5-webflux-2</module>
                 <module>spring-5-webflux</module>
-                <!-- <module>spring-5</module> --> <!-- JAVA-39367 -->
+                <module>spring-5</module>
                 <module>spring-6-rsocket</module>
                 <module>spring-activiti</module>
                 <module>spring-actuator</module>
@@ -849,7 +848,7 @@
                 <module>xml-2</module>
                 <module>xml-3</module>
                 <module>xstream</module>
-                <!-- <module>libraries-data-io-2</module> --> <!-- JAVA-39367 -->
+                <module>libraries-data-io-2</module>
                 <module>spring-5-rest-docs</module>
                 <!-- <module>maven-modules</module> --> <!--JAVA 37707-->
             </modules>
@@ -904,7 +903,6 @@
                 <module>libraries-data-io</module>
                 <!--<module>persistence-modules/java-harperdb</module>--> <!-- This module requires a library to download manually -->
                 <module>persistence-modules/spring-data-neo4j</module>
-                <module>persistence-modules/spring-data-rest-2</module>
                 <module>persistence-modules/spring-persistence-simple</module>
                 <module>quarkus-modules/quarkus</module>
                 <module>quarkus-modules/quarkus-vs-springboot/quarkus-project</module>
@@ -980,7 +978,7 @@
                 <module>azure</module>
                 <!-- <module>azure-functions</module>--> <!-- BAEL-6423 -->
                 <module>bazel</module>
-                <!-- <module>checker-framework</module> --> <!-- JAVA-39367 -->
+                <module>checker-framework</module>
                 <module>core-java-modules</module>
                 <module>custom-pmd</module>
                 <module>data-structures</module>
@@ -1019,7 +1017,7 @@
                 <module>jdbc-cp</module>
                 <module>jetbrains</module>
                 <module>jgit</module>
-                <!-- <module>jmh</module> --> <!-- JAVA-39367 -->
+                <module>jmh</module>
                 <module>json-modules</module>
                 <module>jsoup</module>
                 <module>jws</module>
@@ -1091,7 +1089,7 @@
                 <module>spf4j</module>
                 <module>spring-5-webflux-2</module>
                 <module>spring-5-webflux</module>
-                <!-- <module>spring-5</module> --> <!-- JAVA-39367 -->
+                <module>spring-5</module>
                 <module>spring-6-rsocket</module>
                 <module>spring-activiti</module>
                 <module>spring-actuator</module>
@@ -1161,7 +1159,7 @@
                 <module>xml-2</module>
                 <module>xml-3</module>
                 <module>xstream</module>
-                <!-- <module>libraries-data-io-2</module> --> <!-- JAVA-39367 -->
+                <module>libraries-data-io-2</module>
                 <module>spring-5-rest-docs</module>
                 <!-- <module>maven-modules</module> --> <!--JAVA 37707-->
             </modules>
