@@ -1,15 +1,13 @@
-package com.baeldung.spring.boot.management.trace;
+package com.baeldung.embeddable;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Profile;
 
-@Profile("logging")
 @SpringBootApplication
-public class App {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(App.class);
+        SpringApplication.run(Application.class, args);
     }
-    
+
 }
