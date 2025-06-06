@@ -176,6 +176,7 @@
         <module>core-java-lang-math-5</module>
         <module>core-java-lang-oop-constructors</module>
         <module>core-java-lang-oop-patterns</module>
+        <module>core-java-lang-oop-patterns-2</module>
         <module>core-java-lang-oop-generics</module>
         <module>core-java-lang-oop-modifiers</module>
         <module>core-java-lang-oop-types</module>
@@ -184,6 +185,7 @@
         <module>core-java-lang-oop-inheritance</module>
         <module>core-java-lang-oop-inheritance-2</module>
         <module>core-java-lang-oop-methods</module>
+        <module>core-java-lang-oop-methods-2</module>
         <module>core-java-lang-oop-others</module>
         <module>core-java-lang-operators</module>
         <module>core-java-lang-operators-2</module>
