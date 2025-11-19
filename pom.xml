@@ -677,6 +677,7 @@
                 <module>java-jdi</module>
                 <module>java-panama</module>
                 <module>javafx</module>
+                <module>javafx-2</module>
                 <module>javax-sound</module>
                 <module>javaxval</module>
                 <module>javaxval-2</module>
@@ -840,6 +841,7 @@
                 <module>web-modules</module>
                 <module>webrtc</module>
                 <module>xml-modules</module>
+                <module>java-mcp</module>
             </modules>
 
             <properties>
@@ -1120,6 +1122,7 @@
                 <module>java-jdi</module>
                 <module>java-panama</module>
                 <module>javafx</module>
+                <module>javafx-2</module>
                 <module>javax-sound</module>
                 <module>javaxval</module>
                 <module>javaxval-2</module>
