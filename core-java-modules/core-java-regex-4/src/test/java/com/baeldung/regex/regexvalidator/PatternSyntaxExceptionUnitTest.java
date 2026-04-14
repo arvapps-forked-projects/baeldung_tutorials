@@ -1,5 +1,6 @@
-package com.baeldung.regex;
+package com.baeldung.regex.regexvalidator;
 
+import com.baeldung.regex.regexvalidator.RegexValidator;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

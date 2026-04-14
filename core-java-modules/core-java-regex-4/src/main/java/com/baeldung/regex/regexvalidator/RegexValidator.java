@@ -1,4 +1,4 @@
-package com.baeldung.regex;
+package com.baeldung.regex.regexvalidator;
 
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
